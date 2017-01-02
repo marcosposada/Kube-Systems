@@ -1,0 +1,58 @@
+"store","websites","attribute_set","type","category_ids","sku","has_options","name","meta_title","meta_description","image","small_image","thumbnail","url_key","url_path","custom_design","page_layout","options_container","image_label","small_image_label","thumbnail_label","country_of_manufacture","msrp_enabled","msrp_display_actual_price_type","gift_message_available","price","special_price","weight","msrp","color","status","is_recurring","visibility","tax_class_id","arw_brand","description","short_description","meta_keyword","custom_layout_update","special_from_date","special_to_date","news_from_date","news_to_date","custom_design_from","custom_design_to","qty","min_qty","use_config_min_qty","is_qty_decimal","backorders","use_config_backorders","min_sale_qty","use_config_min_sale_qty","max_sale_qty","use_config_max_sale_qty","is_in_stock","low_stock_date","notify_stock_qty","use_config_notify_stock_qty","manage_stock","use_config_manage_stock","stock_status_changed_auto","use_config_qty_increments","qty_increments","use_config_enable_qty_inc","enable_qty_increments","is_decimal_divided","stock_status_changed_automatically","use_config_enable_qty_increments","product_name","store_id","product_type_id","product_status_changed","product_changed_websites","website","_media_image","_media_lable","_media_position","_media_is_disabled","minimal_price","old_id"
+"admin","base","Default","simple","2,3","KS-CLOCK-WHITE","0","KS CLOCK WHITE","","","/k/s/ks-clock-white.jpg","/k/s/ks-clock-white.jpg","/k/s/ks-clock-white.jpg","ks-clock-white","ks-clock-white.html","","No layout updates","Product Info Column","","",""," ","Use config","Use config","No","299.0000","","0.5000","","White","Enabled","No","Not Visible Individually","Taxable Goods","","<p>Kube Clock is the ultimate in bedside luxury. An alarm clock with intuitive control, this in-room charging station is currently used by hundreds of five-star hotels worldwide. Sleek, compact, and with enough power to charge six devices at once, the Kube Clock allows you to leave your cables at home, every time you travel. &nbsp;</p>
+<p>The high-quality Bluetooth speaker streams your own music, while Qi wireless charging offers a simple way to &lsquo;drop and charge&rsquo; your device.&nbsp;</p>
+<p>Rest easy, knowing you&rsquo;ll wake on time, fully charged and ready to go.</p>
+<p>Why Kube Clock? OR A power nap with Kube Clock includes:</p>
+<ul>
+<li>Compact and contemporary alarm clock&nbsp;</li>
+<li>Charges up to six devices at once</li>
+<li>High quality Bluetooth speaker with room-coded Bluetooth ID, tailored for hotels</li>
+<li>Upgradeable and replaceable cables</li>
+<li>Qi &lsquo;drop and charge&rsquo; wireless charging</li>
+<li>Simple controls&nbsp;</li>
+<li>Alarm goes off only once until programmed the next day</li>
+</ul>","<p>Designed specifically for the hospitality industry, KS Clock&trade; - convenient, compact and future proof. It is the perfect phone charging and music streaming solution.</p>","","","","","","","","","99.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","KS CLOCK WHITE","0","simple","","","","","","","","",""
+"admin","base","Default","configurable","2,3","KS-CLOCK","1","KS Clock","","","/k/s/ks-clock-black_1.jpg","/k/s/ks-clock-black_1.jpg","/k/s/ks-clock-black_1.jpg","ks-clock","ks-clock.html","","No layout updates","Product Info Column","","",""," ","Use config","Use config","No","299.0000","","","","","Enabled","","Catalog, Search","Taxable Goods","","<p>Kube Clock is the ultimate in bedside luxury. An alarm clock with intuitive control, this in-room charging station is currently used by hundreds of five-star hotels worldwide. Sleek, compact, and with enough power to charge six devices at once, the Kube Clock allows you to leave your cables at home, every time you travel. &nbsp;</p>
+<p>The high-quality Bluetooth speaker streams your own music, while Qi wireless charging offers a simple way to &lsquo;drop and charge&rsquo; your device.&nbsp;</p>
+<p>Rest easy, knowing you&rsquo;ll wake on time, fully charged and ready to go.</p>
+<p>Why Kube Clock? OR A power nap with Kube Clock includes:</p>
+<ul>
+<li>Compact and contemporary alarm clock&nbsp;</li>
+<li>Charges up to six devices at once</li>
+<li>High quality Bluetooth speaker with room-coded Bluetooth ID, tailored for hotels</li>
+<li>Upgradeable and replaceable cables</li>
+<li>Qi &lsquo;drop and charge&rsquo; wireless charging</li>
+<li>Simple controls&nbsp;</li>
+<li>Alarm goes off only once until programmed the next day</li>
+</ul>","<p>Designed specifically for the hospitality industry, KS Clock&trade; - convenient, compact and future proof. It is the perfect phone charging and music streaming solution.</p>","","","","","","","","","0.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","KS Clock","0","configurable","","","","","","","","",""
+"admin","","","","","KS-CLOCK","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","/k/s/ks-clock-white_1.jpg","","2","0","",""
+"admin","","","","","KS-CLOCK","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","/k/s/ks-clock-black-back.jpg","","3","0","",""
+"admin","","","","","KS-CLOCK","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","/k/s/ks-clock-white-side.jpg","","4","0","",""
+"admin","","","","","KS-CLOCK","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","/k/s/ks-clock-black-side.jpg","","5","0","",""
+"admin","base","Default","simple","3","KS-CLOCK-BLACK","0","KS CLOCK BLACK","","","/k/s/ks-clock-black.jpg","/k/s/ks-clock-black.jpg","/k/s/ks-clock-black.jpg","ks-clock","ks-clock-6.html","","No layout updates","Product Info Column","","",""," ","Use config","Use config","No","299.0000","","0.5000","","Black","Enabled","No","Not Visible Individually","Taxable Goods","","<p>Kube Clock is the ultimate in bedside luxury. An alarm clock with intuitive control, this in-room charging station is currently used by hundreds of five-star hotels worldwide. Sleek, compact, and with enough power to charge six devices at once, the Kube Clock allows you to leave your cables at home, every time you travel. &nbsp;</p>
+<p>The high-quality Bluetooth speaker streams your own music, while Qi wireless charging offers a simple way to &lsquo;drop and charge&rsquo; your device.&nbsp;</p>
+<p>Rest easy, knowing you&rsquo;ll wake on time, fully charged and ready to go.</p>
+<p>Why Kube Clock? OR A power nap with Kube Clock includes:</p>
+<ul>
+<li>Compact and contemporary alarm clock&nbsp;</li>
+<li>Charges up to six devices at once</li>
+<li>High quality Bluetooth speaker with room-coded Bluetooth ID, tailored for hotels</li>
+<li>Upgradeable and replaceable cables</li>
+<li>Qi &lsquo;drop and charge&rsquo; wireless charging</li>
+<li>Simple controls&nbsp;</li>
+<li>Alarm goes off only once until programmed the next day</li>
+</ul>","<p>Designed specifically for the hospitality industry, KS Clock&trade; - convenient, compact and future proof. It is the perfect phone charging and music streaming solution.</p>","","","","","","","","","100.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","KS CLOCK BLACK","0","simple","","","","","","","","",""
+"admin","base","Default","simple","2,3","KS-PORTABLE","1","KS Portable","","","/k/u/kube-block-portable.jpg","/k/u/kube-block-portable.jpg","/k/u/kube-block-portable.jpg","ks-portable","ks-portable.html","","No layout updates","Product Info Column","","",""," ","Use config","Use config","No","299.0000","","1.0000","","Black","Enabled","No","Catalog, Search","Taxable Goods","","<p><b>Ultimate Portable Power</b></p>
+<p>Size is everything, and the Kube Rover&rsquo;s charge power has no competition. Its&nbsp;</p>
+<p>whopping 18,000 mAh battery lasts all day with a charge speed comparable to wall outlets. All the while powering up to six devices at once. It&rsquo;s the ultimate portable power charger.&nbsp;</p>
+<p><b>Leave Your Cables at Home</b></p>
+<p>With upgradeable and replaceable cables, the Kube Rover is never tied down to one type of technology. Built-in support for Qi wireless charging, Apple's Lightning &amp; 30-pin connector, and a Micro USB offers compatibility with the smart phones of today while providing flexibility for the smart phones of tomorrow.</p>
+<p><b>Power Up the Kube&nbsp;</b></p>
+<p>Kube Rover&rsquo;s charging tray is unique &ndash; not only does it recharge up to five Kubes at once, but it also has a Time Out! function, where you can program the power session of each Kube Rover.</p>
+<p>This tray is the only way to charge a Kube, adding extra security from those who&rsquo;d rather take the Kube Rover home with them.</p>
+<p><b>Time Out!</b></p>
+<p>Kube Rover&rsquo;s programmable Time Out! means you can control the usage and limit each power session to 30, 60 or 90 minute intervals. That way there are plenty of Kube Rovers available for use.</p>
+<p><b>Security</b></p>
+<p>The charging tray acts as a proprietary charging terminal, ensuring that the Kube Rover can&rsquo;t Power Up without it. Security cable attachment points are also included on both the Kube Rover and the Kube Clock.</p>
+<p><b>Kustomise Kube</b></p>
+<p>Engage your customers and clients when co-branding the Kube Clock and the Kube Rover with your company&rsquo;s logo.</p>","<p>Designed specifically for the hospitality industry, KS Portable&trade; is a portable universal charging system with built-in cables for all mobile devices on the market today.</p>","","","","","","","","","99.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","KS Portable","0","simple","","","","","","","","",""

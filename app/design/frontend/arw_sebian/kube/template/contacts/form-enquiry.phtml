@@ -1,0 +1,189 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magento.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magento.com for more information.
+ *
+ * @category    design
+ * @package     base_default
+ * @copyright   Copyright (c) 2006-2014 X.commerce, Inc. (http://www.magento.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+?>
+<?php
+    $contact_page_style = Mage::getStoreConfig('sebian/contact_page/layout_style');
+    $rand_id = rand();
+    $block_top = $this->getLayout()->createBlock('cms/block')->setBlockId('kube_commercial_enquiries_top')->toHtml();
+    $block_before = $this->getLayout()->createBlock('cms/block')->setBlockId('kube_commercial_enquiries_before')->toHtml();
+    $block_bottom = $this->getLayout()->createBlock('cms/block')->setBlockId('kube_commercial_enquiries_bottom')->toHtml();
+?>
+<div class="page_contact_style_2">
+    <div id="messages_product_view"><?php echo $this->getMessagesBlock()->toHtml() ?></div>
+    <div class="block-contact-top">
+        <?php if($block_top) echo $block_top;?>
+    </div>
+    <div class="block-contact-form">
+        <?php if($block_before) echo $block_before;?>
+       <!--  ----------------------------------------------------------------------  -->
+        <!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
+        <!--  If necessary, please modify the charset parameter to specify the        -->
+        <!--  character set of your HTML page.                                        -->
+        <!--  ----------------------------------------------------------------------  -->
+
+        <META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
+
+        <!--  ----------------------------------------------------------------------  -->
+        <!--  NOTE: Please add the following <FORM> element to your page.             -->
+        <!--  ----------------------------------------------------------------------  -->
+
+        <form id="contactForm_<?php echo $rand_id;?>" action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST" style="margin: 0 -15px;">
+
+        <input type=hidden name="oid" value="00D280000017dyK">
+        <input type=hidden name="retURL" value="http://www.kubesystems.com/contact/thank-you">
+
+        <!--  ----------------------------------------------------------------------  -->
+        <!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+        <!--  these lines if you wish to test in debug mode.                          -->
+        <!--  <input type="hidden" name="debug" value=1>                              -->
+        <!--  <input type="hidden" name="debugEmail" value="beno@kubesystems.com">    -->
+        <!--  ----------------------------------------------------------------------  -->
+
+        <!--Lead Type:<select  id="00N2800000A0E7l" name="00N2800000A0E7l" title="Lead Type"><option value="">--None--</option><option value="B2C">B2C</option>
+        <option value="B2B">B2B</option>
+        <option value="Partner">Partner</option>
+        <option value="Supplier">Supplier</option>
+        </select><br>
+
+        Enquiry Type:<select  id="00N2800000A0bl7" name="00N2800000A0bl7" title="Enquiry Type"><option value="">--None--</option><option value="Sales">Sales</option>
+        <option value="Support">Support</option>
+        <option value="Partnering">Partnering</option>
+        <option value="Other">Other</option>
+        </select><br>
+
+        <label for="lead_source">Lead Source</label><select  id="lead_source" name="lead_source"><option value="">--None--</option><option value="Advertisement">Advertisement</option>
+        <option value="Employee Referral">Employee Referral</option>
+        <option value="External Referral">External Referral</option>
+        <option value="Partner">Partner</option>
+        <option value="Public Relations">Public Relations</option>
+        <option value="Seminar - Internal">Seminar - Internal</option>
+        <option value="Seminar - Partner">Seminar - Partner</option>
+        <option value="Trade Show">Trade Show</option>
+        <option value="Web">Web</option>
+        <option value="Word of mouth">Word of mouth</option>
+        <option value="Other">Other</option>
+        </select><br>-->
+            <div class="form-group col-xs-12 col-md-12">
+                <label for="00N2800000A0E7l">Which option best describes you? *</label>
+                <br/>
+                <select  id="00N2800000A0E7l" name="00N2800000A0E7l" title="Lead Type" class="required-entry">
+                    <option value="">--None--</option>                       
+                    <option value="Consumer/Guest">Consumer/Guest</option>
+                    <option value="Hospitality">Hospitality </option>
+                    <option value="Supplier to Hospitality">Supplier to Hospitality</option>
+                    <option value="Other">Other</option>
+                </select>
+            </div>
+            <div class="form-group col-xs-12 col-md-12">
+                <label for="00N2800000A0bl7">What is the nature of your enquiry? *</label>
+                <br/>
+                <select  id="00N2800000A0bl7" name="00N2800000A0bl7" title="Enquiry Type" class="required-entry">
+                    <option value="">--None--</option>
+                    <option value="Sales">Sales</option>
+                    <option value="Support">Support</option>
+                    <option value="Partnering">Partnering</option>
+                    <option value="Other">Other</option>
+                </select>
+            </div>
+            
+            <div class="form-group col-xs-12 col-md-12">
+                <label for="lead_source">Where did you hear about us? *</label>
+                <br/>
+                <select  id="lead_source" name="lead_source" class="required-entry">
+                        <option value="">--None--</option>
+                        <option value="Advertisement - Print">Advertisement - Print</option>
+                        <option value="Advertisement - Web">Advertisement - Web</option>
+                        <option value="Hotel Room or Hotel">Hotel Room or Hotel</option>
+                        <option value="Reseller / Partner">Reseller / Partner</option>
+                        <option value="Public Relations">Public Relations</option>
+                        <option value="Restaurant / Bar">Restaurant / Bar</option>
+                        <option value="Trade Show / Seminar">Trade Show</option>
+                        <option value="Website">Website</option>
+                        <option value="Web Search">Web Search</option>
+                        <option value="Word of mouth">Word of mouth</option>
+                        <option value="Other">Other</option>
+                </select>
+            </div>
+         
+            <div class="form-group col-xs-12 col-md-6">
+                <label for="first_name">First Name *</label><input  id="first_name" maxlength="40" name="first_name" size="20" type="text" class="required-entry" />
+            </div>
+            <div class="form-group col-xs-12 col-md-6">
+                <label for="last_name">Last Name *</label><input  id="last_name" maxlength="80" name="last_name" size="20" type="text" class="required-entry" />
+            </div>
+            <div class="form-group col-xs-12 col-md-6">
+                <label for="email">Email *</label><input  id="email" maxlength="80" name="email" size="20" type="text" class="required-entry validate-email" />
+            </div>
+            
+            <div class="form-group col-xs-12 col-md-6">
+                <label for="company">Company</label><input  id="company" maxlength="40" name="company" size="20" type="text" />
+            </div>
+
+            <div class="form-group col-xs-12 col-md-6">
+                <label for="URL">Website</label><input  id="URL" maxlength="80" name="URL" size="20" type="text" />
+            </div>
+
+            <div class="form-group col-xs-12 col-md-6">
+                <label for="city">City *</label><input  id="city" maxlength="40" name="city" size="20" type="text" class="required-entry" />
+            </div>
+            
+            <div class="form-group col-xs-12 col-md-6">
+                <label for="state">State/Province *</label><input  id="state" maxlength="20" name="state" size="20" type="text" class="required-entry" />
+            </div>
+            <div class="form-group col-xs-12 col-md-6">
+                <label for="country">Country *</label><input  id="country" maxlength="40" name="country" size="20" type="text" class="required-entry" />
+            </div>
+            <div class="form-group col-xs-12 col-md-6">
+                <label for="phone">Phone *</label><input  id="phone" maxlength="40" name="phone" size="20" type="text" class="required-entry" />
+            </div>
+            <div class="form-group col-xs-12 col-md-6">
+                <label for="mobile">Mobile</label><input  id="mobile" maxlength="40" name="mobile" size="20" type="text"  />
+            </div>
+
+            <div class="form-group col-xs-12">
+                <label for="description">Description *</label><textarea name="description" class="required-entry"></textarea>
+            </div>
+            <div class="form-group col-xs-12">
+                <input type="submit" name="submit">
+            </div>
+
+        </form>
+        <script type="text/javascript">
+        //<![CDATA[
+            var contactForm = new VarienForm('contactForm_<?php echo $rand_id;?>', false);
+            $('contactForm_<?php echo $rand_id;?>').observe('submit', function(){
+                setTimeout(function(){
+                    contactForm.validator.reset();
+                },8000);
+            }.bind(contactForm));
+
+        //]]>
+        </script>
+    </div>
+    <div class="block-contact-bottom">
+        <?php if($block_bottom) echo $block_bottom;?>
+    </div>
+</div>

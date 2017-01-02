@@ -1,0 +1,150 @@
+store,websites,attribute_set,type,category_ids,sku,has_options,name,meta_title,meta_description,image,small_image,thumbnail,url_key,url_path,custom_design,page_layout,options_container,image_label,small_image_label,thumbnail_label,country_of_manufacture,msrp_enabled,msrp_display_actual_price_type,gift_message_available,price,special_price,weight,msrp,color,status,is_recurring,visibility,tax_class_id,arw_brand,description,short_description,meta_keyword,custom_layout_update,special_from_date,special_to_date,news_from_date,news_to_date,custom_design_from,custom_design_to,qty,min_qty,use_config_min_qty,is_qty_decimal,backorders,use_config_backorders,min_sale_qty,use_config_min_sale_qty,max_sale_qty,use_config_max_sale_qty,is_in_stock,low_stock_date,notify_stock_qty,use_config_notify_stock_qty,manage_stock,use_config_manage_stock,stock_status_changed_auto,use_config_qty_increments,qty_increments,use_config_enable_qty_inc,enable_qty_increments,is_decimal_divided,stock_status_changed_automatically,use_config_enable_qty_increments,product_name,store_id,product_type_id,product_status_changed,product_changed_websites,website,_media_image,_media_lable,_media_position,_media_is_disabled,minimal_price,old_id
+admin,base,Default,simple,"2,3",CLOCK-WHT-US,1,Kube Clock - White,,,/k/u/kube-clock-white-front_1.jpg,/k/u/kube-clock-square.jpg,/k/u/kube-clock-square.jpg,kube-clock-white,kube-clock-white.html,,No layout updates,Product Info Column,,,,China,Use config,Use config,No,149,,0.925,149,White,Enabled,No,"Catalog, Search",Taxable Goods,,"<p><strong>Guest Features</strong></p>
+
+<ul>
+ <li>Built-in charging cables for Apple lightning, Apple 30 pin and Micro USB</li>
+ <li>Additional charging via two (2) USB ports</li>
+ <li>High quality speaker for audio streaming via Bluetooth</li>
+ <li>Large Clock display with Single Day Alarm</li>
+ <li>Auto-fading dimmer function</li>
+ <li>Auxiliary port for streaming music from 3.5mm headphone jack</li>
+ <li>Replaceable cables to extend life of the product</li>
+ <li>12 month Warranty</li>
+ <li>Colour: White with chrome speaker grills and mirrored display</li>
+ <li>Packaging: 270mm x 151mm x 100mm</li>
+ <li>Weight: 0.925 kg</li>
+ <li>Unit: 105mm x 105mm x 58mm</li>
+ <li>Weight: 0.50 kg</li>
+</ul>
+
+<p><strong>Hotel Specific Features</strong></p>
+
+<ul>
+ <li>Compact and contemporary design to suit bedside tables</li>
+ <li>Time adjustment buttons located underneath clock to avoid guest changes</li>
+ <li>Built-in cables reduce concierge cable delivery to rooms</li>
+ <li>Replaceable cables to extend life of the product</li>
+ <li>Pairing button for simple guest connection for audio streaming</li>
+ <li>Room programmer for custom adjustment of default settings (optional)</li>
+ <li>Security tethering optional and Kensington lock compatible (cables optional)</li>
+ <li>Customised branding options are available orders &gt; 100 units</li>
+</ul>","<p>The Kube clock can charge many devices including your Apple and Android phones and tablets. Features include built-in cables, Bluetooth speaker, clock and alarm.  Finished in white with chrome speaker grills.</p>",,,,,,,,,97,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,0,0,1,Kube Clock - White,0,simple,,,,,,,,,
+admin,base,Default,simple,"2,3",CLOCK-BLK-US,1,Kube Clock - Black,,,/k/u/kube-clock-black-front-qi_1.jpg,/k/u/kube-clock-black-square_2.jpg,/k/u/kube-clock-black-square_2.jpg,ks-clock,ks-clock.html,,No layout updates,Product Info Column,,,,China,Use config,Use config,No,149,,0.925,149,Black,Enabled,No,Catalog,Taxable Goods,,"<p><strong>Guest Features</strong></p>
+
+<ul>
+ <li>Built-in charging cables for Apple lightning, Apple 30 pin and Micro USB</li>
+ <li>Additional charging via two (2) USB ports</li>
+ <li>High quality speaker for audio streaming via Bluetooth</li>
+ <li>Large Clock display with Single Day Alarm</li>
+ <li>Auto-fading dimmer function</li>
+ <li>Auxiliary port for streaming music from 3.5mm headphone jack</li>
+ <li>Replaceable cables to extend life of the product</li>
+ <li>12 month Warranty</li>
+ <li>Colour: Matt Black</li>
+ <li>Packaging: 270mm x 151mm x 100mm</li>
+ <li>Weight: 0.925 kg</li>
+ <li>Unit: 105mm x 105mm x 58mm</li>
+ <li>Weight: 0.50 kg</li>
+</ul>
+
+<p><strong>Hotel Specific Features</strong></p>
+
+<ul>
+ <li>Compact and contemporary design to suit bedside tables</li>
+ <li>Time adjustment buttons located underneath clock to avoid guest changes</li>
+ <li>Built-in cables reduce concierge cable delivery to rooms</li>
+ <li>Replaceable cables to extend life of the product</li>
+ <li>Pairing button for simple guest connection for audio streaming</li>
+ <li>Room programmer for custom adjustment of default settings (optional)</li>
+ <li>Security tethering optional and Kensington lock compatible (cables optional)</li>
+ <li>Customised branding options are available orders &gt; 100 units</li>
+</ul>","<p>The Kube clock can charge many devices including your Apple and Android phones and tablets. Features include built-in cables, Bluetooth speaker, clock and alarm.  Finished in matt black.</p>",,,,,,,,,97,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,0,0,1,Kube Clock - Black,0,simple,,,,,,,,,
+admin,base,Default,simple,"2,3",CLOCK-WHT-QI-US,1,Kube Clock - Wireless White,,,/k/u/kube-clock-white-front_1.jpg,/k/u/kube-clock-square.jpg,/k/u/kube-clock-square.jpg,kube-clock-white,kube-clock-white.html,,No layout updates,Product Info Column,,,,China,Use config,Use config,No,179,,1.12,179,White,Enabled,No,Catalog,Taxable Goods,,"<p><strong>Guest Features</strong></p>
+
+<ul>
+ <li>Wireless &lsquo;Drop and Charge&rsquo; Qi charging</li>
+ <li>Built-in charging cables for Apple lightning, Apple 30 pin and Micro USB</li>
+ <li>Additional charging via two (2) USB ports</li>
+ <li>High quality speaker for audio streaming via Bluetooth</li>
+ <li>Large Clock display with Single Day Alarm</li>
+ <li>Auto-fading dimmer function</li>
+ <li>Auxiliary port for streaming music from 3.5mm headphone jack</li>
+ <li>Replaceable cables to extend life of the product</li>
+ <li>12 month Warranty</li>
+ <li>Colour: White with chrome speaker grills and mirrored display</li>
+ <li>Packaging: 270mm x 151mm x 100mm</li>
+ <li>Weight: 0.925 kg</li>
+ <li>Unit: 105mm x 105mm x 58mm</li>
+ <li>Weight: 0.50 kg</li>
+</ul>
+
+<p><strong>Hotel Specific Features</strong></p>
+
+<ul>
+ <li>Compact and contemporary design to suit bedside tables</li>
+ <li>Time adjustment buttons located underneath clock to avoid guest changes</li>
+ <li>Built-in cables reduce concierge cable delivery to rooms</li>
+ <li>Replaceable cables to extend life of the product</li>
+ <li>Pairing button for simple guest connection for audio streaming</li>
+ <li>Room programmer for custom adjustment of default settings (optional)</li>
+ <li>Security tethering optional and Kensington lock compatible (cables optional)</li>
+ <li>Customised branding options are available orders &gt; 100 units</li>
+</ul>","<p>The Kube clock with Qi wireless charging can charge many devices including your Apple and Android phones and tablets.  Features include Qi Wireless charging, built-in cables, Bluetooth speaker, clock and alarm.  Finished in white with chrome speaker grills.</p>",,,,,,,,,97,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,0,0,1,Kube Clock - Wireless White,0,simple,,,,,,,,,
+admin,base,Default,simple,3,CLOCK-BLK-QI-US,1,Kube Clock - Wireless Black,,,/k/u/kube-clock-black-front-qi.jpg,/k/u/kube-clock-black-square_1.jpg,/k/u/kube-clock-black-square_1.jpg,kube-clock-black,kube-clock-black.html,,No layout updates,Product Info Column,,,,China,Use config,Use config,No,179,,1.12,179,Black,Enabled,No,Catalog,Taxable Goods,,"<p><strong>Guest Features</strong></p>
+
+<ul>
+ <li>Wireless &lsquo;Drop and Charge&rsquo; Qi charging</li>
+ <li>Built-in charging cables for Apple lightning, Apple 30 pin and Micro USB</li>
+ <li>Additional charging via two (2) USB ports</li>
+ <li>High quality speaker for audio streaming via Bluetooth</li>
+ <li>Large Clock display with Single Day Alarm</li>
+ <li>Auto-fading dimmer function</li>
+ <li>Auxiliary port for streaming music from 3.5mm headphone jack</li>
+ <li>Replaceable cables to extend life of the product</li>
+ <li>12 month Warranty</li>
+ <li>Colour: Matt Black</li>
+ <li>Packaging: 270mm x 151mm x 100mm</li>
+ <li>Weight: 0.925 kg</li>
+ <li>Unit: 105mm x 105mm x 58mm</li>
+ <li>Weight: 0.50 kg</li>
+</ul>
+
+<p><strong>Hotel Specific Features</strong></p>
+
+<ul>
+ <li>Compact and contemporary design to suit bedside tables</li>
+ <li>Time adjustment buttons located underneath clock to avoid guest changes</li>
+ <li>Built-in cables reduce concierge cable delivery to rooms</li>
+ <li>Replaceable cables to extend life of the product</li>
+ <li>Pairing button for simple guest connection for audio streaming</li>
+ <li>Room programmer for custom adjustment of default settings (optional)</li>
+ <li>Security tethering optional and Kensington lock compatible (cables optional)</li>
+ <li>Customised branding options are available orders &gt; 100 units</li>
+</ul>","<p>The Kube clock with Qi wireless charging can charge many devices including your Apple and Android phones and tablets.  Features include Qi Wireless charging, built-in cables, Bluetooth speaker, clock and alarm.  Finished in matt black.</p>",,,,,,,,,0,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,0,0,1,Kube Clock - Wireless Black,0,simple,,,,,,,,,
+admin,base,Default,simple,"2,3",PORTABLE-SYS-US,1,Kube Portable System,,,/k/u/kube-5-system-charger.jpg,/k/u/kube-5-system-square.jpg,/k/u/kube-5-system-square.jpg,kube-5-system,kube-5-system.html,,No layout updates,Product Info Column,,,,China,Use config,Use config,No,1899,,8.88,1899,Black,Enabled,No,Catalog,Taxable Goods,,"<p><strong>Each of the five (5) Kube chargers contains:</strong></p>
+
+<ul>
+ <li>Wireless &lsquo;Drop and Charge&rsquo; Qi charging</li>
+ <li>Built-in charging cables for Apple lightning, Apple 30 pin and Micro USB</li>
+ <li>Additional charging via two (2) USB ports</li>
+ <li>18,000 mAh Ultra High capacity battery</li>
+ <li>Provides up to 9 hours of phone charge time</li>
+ <li>Replaceable cables to extend life of the product</li>
+ <li>Security tethering optional and Kensington lock compatible (cables optional)</li>
+ <li>12 month Warranty</li>
+ <li>Colour: Matt Black</li>
+ <li>Unit: 105mm x 105mm x 58mm</li>
+ <li>Weight: 0.50 kg</li>
+ <li>Customised branding options are available (5+ systems / 25 individual chargers)</li>
+</ul>
+
+<p><strong>The Charging Tray features:</strong></p>
+
+<ul>
+ <li>5 charging docks with LED charge indicator lights</li>
+ <li>Programmable &ldquo;Time Out&rdquo; feature</li>
+ <li>Carry handles&nbsp;</li>
+ <li>Colour: Matt Black</li>
+ <li>Packaging: 575mm x 395mm x 186mm</li>
+ <li>Weight: 8.88 kg</li>
+</ul>","<p>The Kube Portable System contains five portable power ""kubes"" that can charge up to six devices at once - both wirelessly or with built-in cables for Apple & Micro-USB devices.  Designed specifically for the hospitality industry for use in lobbies, bars or restaurants. </p>",,,,,,,,,97,0,0,1,2,0,1,1,0,1,1,,,1,1,0,0,1,0,1,0,0,0,1,Kube Portable System,0,simple,,,,,,,,,
